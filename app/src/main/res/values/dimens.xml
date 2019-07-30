@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="label_margin_top">12dp</dimen>
+    <dimen name="text_margin_top">6dp</dimen>
+    <dimen name="label_margin_Left">16dp</dimen>
+    <dimen name="text_margin_Left">8dp</dimen>
+    <dimen name="label_textSize">16sp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="trailer_margin">6dp</dimen>
+    <dimen name="poster_width">180dp</dimen>
+    <dimen name="poster_height">250dp</dimen>
+    <dimen name="button_dimensions">50dp</dimen>
+    <dimen name="release_label_margin_top">36dp</dimen>
+    <dimen name="review_height">33dp</dimen>
+    <dimen name="trailer_width">260dp</dimen>
+    <dimen name="trailer_height">160dp</dimen>
+
+
+</resources>

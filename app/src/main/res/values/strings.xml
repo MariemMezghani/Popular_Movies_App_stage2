@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="error_message">
+        It seems that you have lost your network connection. Please try again later.
+    </string>
+    <string name="release_date">Release date:</string>
+    <string name="rating">Rating:</string>
+    <string name="overview">Overview:</string>
+    <string name="most_popular">most popular</string>
+    <string name="highest_rated">highest rated</string>
+    <string name="favorites">favorites</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_reviews">No reviews yet!</string>
+    <string name="my_text">This is an <u>underline</u>.</string>
+
+</resources>
